@@ -1,0 +1,34 @@
+                                                           Newspaper pencil (E-stationary Website)
+
+Technology that will use (java + hibernate + Mysql + Angular)
+
+
+#index page
+#display product page
+#quick view 
+#product details
+#cart 
+#payment gateway
+#email intregation
+
+
+
+Customer part
+#registration
+#login
+#Edit Details
+#Order Details
+   * previous order
+   * current order
+#change password
+
+
+
+Admin panel
+#login
+#change password
+#add product
+#edit product
+#delete product
+#enable or disable product
+#add banner through admin panel
